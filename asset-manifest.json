@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/entradas_cine/static/css/main.e032a7c8.css",
+    "main.js": "/entradas_cine/static/js/main.6061ad95.js",
+    "index.html": "/entradas_cine/index.html",
+    "main.e032a7c8.css.map": "/entradas_cine/static/css/main.e032a7c8.css.map",
+    "main.6061ad95.js.map": "/entradas_cine/static/js/main.6061ad95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e032a7c8.css",
+    "static/js/main.6061ad95.js"
+  ]
+}
