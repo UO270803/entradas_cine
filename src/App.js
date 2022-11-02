@@ -97,7 +97,6 @@ class App extends React.Component {
     }
 
     let menuItems = [
-      { key: "logo", label: <img src="/logo192.png" width="40" height="40" /> },
       { key: "menuPeliculas", label: <Link to="/">Peliculas</Link>, icon: <VideoCameraOutlined /> },
       { key: "menuProximosEstrenos", label: <Link to="/proximos">Próximos estrenos</Link>, icon: <ForwardOutlined /> },
       { key: "menuLogin", label: <Link to="/login">Login</Link>, icon: <LoginOutlined /> },
