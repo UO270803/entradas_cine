@@ -1,0 +1,50 @@
+.ant-card-head-title {
+    color: white;
+    font-size: x-large;
+    text-transform: uppercase;
+}
+
+.ant-card-head {
+    border-bottom: 0px solid transparent !important;
+}
+
+.title{
+    color: white;
+    text-transform: uppercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+}
+
+.title .ant-page-header-heading-title{
+    color: white;
+    text-transform: uppercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+}
+
+.title2 {
+    color: white;
+    text-transform: uppercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+}
+
+.title3 {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5em;
+}
+
+div.ant-form-item-label label {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+}
+
+h2 {
+    padding-top: 0.5em;
+}
+
+p {
+    padding-top: 0.5em;
+}
