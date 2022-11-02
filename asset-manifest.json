@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.e032a7c8.css",
-    "main.js": "/static/js/main.a0f8e038.js",
-    "index.html": "/index.html",
-    "main.e032a7c8.css.map": "/static/css/main.e032a7c8.css.map",
-    "main.a0f8e038.js.map": "/static/js/main.a0f8e038.js.map"
+    "main.css": "/entradas_cine/static/css/main.e032a7c8.css",
+    "main.js": "/entradas_cine/static/js/main.d6a3907b.js",
+    "index.html": "/entradas_cine/index.html",
+    "main.e032a7c8.css.map": "/entradas_cine/static/css/main.e032a7c8.css.map",
+    "main.d6a3907b.js.map": "/entradas_cine/static/js/main.d6a3907b.js.map"
   },
   "entrypoints": [
     "static/css/main.e032a7c8.css",
-    "static/js/main.a0f8e038.js"
+    "static/js/main.d6a3907b.js"
   ]
 }
