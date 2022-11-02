@@ -97,7 +97,7 @@ class App extends React.Component {
     }
 
     let menuItems = [
-      { key: "menuPeliculas", label: <Link to="/">Peliculas</Link>, icon: <VideoCameraOutlined /> },
+      { key: "menuPeliculas", label: <Link to="/entradas_cine">Peliculas</Link>, icon: <VideoCameraOutlined /> },
       { key: "menuProximosEstrenos", label: <Link to="/proximos">Próximos estrenos</Link>, icon: <ForwardOutlined /> },
       { key: "menuLogin", label: <Link to="/login">Login</Link>, icon: <LoginOutlined /> },
       { key: "menuSignup", label: <Link to="/signUp">Sign Up</Link>, icon: <AimOutlined /> },
@@ -137,7 +137,7 @@ class App extends React.Component {
                   <Route path="/signUp" element={
                     <SignUpForm supabase={this.supabase} />
                   } />
-                  <Route path="/" element={
+                  <Route path="/entradas_cine" element={
                     <Sesiones supabase={this.supabase} />
                   } />
                   <Route path="/sesion/:id" element={
